@@ -1,0 +1,31 @@
+README
+Created Sun Jul 24 16:40:59 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+docs/
+  Documentation
+
+glossary.txt
+  Media glossary
+
+gopro/
+  GoPro
+
+links.txt
+  Media related links
+
+manifest
+  Manifest for resync application
+
+media.txt
+  Media software, hardware, and techniques
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under media/
+
+TODO
+  TODO items for media
+
