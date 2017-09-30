@@ -50,6 +50,9 @@ ssh://htpc/data/git/media/mythtv   mythtv
 ssh://htpc/data/git/media/plexmediaserver   plexmediaserver
 
 
+# Raspberry Pi 3
+ssh://git@github.com/marcilr/raspberry-pi   raspberry-pi
+
 #
 # Transcoding
 #
