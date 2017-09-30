@@ -1,0 +1,89 @@
+TODO
+Created Thu Oct 28 09:24:38 AKDT 2010
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
++++ Mon Apr 20 10:31:56 AKDT 2015 -  Access to Ceton InfiniTV 4 Digital Cable
+Quad-tuner Card (TV Tuner) from mythtv and virtualbox?
+
++++ Mon Apr 20 10:31:56 AKDT 2015 - Mythbuntu under virtualbox?
+Penty of google hits for "mythbuntu under virtualbox".
+
+Installing Mythbuntu backend on Virtualbox virtual machine running on Mac OS X
+2010-03-21
+http://skillfulness.blogspot.com/2010/03/installing-mythbuntu-backend-on.html
+
+Setting up MythTV on a Virtual Machine using Virtualbox
+by Ryan | Dec 3, 2014 | Blog, Home Theater
+Looks like current details - very good.
+http://gameroomsolutions.com/set-up-mythtv-on-a-virtual-machine/
+
+
++++ Sun Aug 25 21:40:34 AKDT 2013 - Create netflix repo.
+Spotted link:
+
+Netflix Comes To Linux Web Browsers Via 'Pipelight'
+Posted by Unknown Lamer on Monday August 19, 2013 @07:57PM
+from the contents-may-explode dept.
+"Wouldn't it be easier to run an android image in a virtual machine
+and just use the android netflix app?"
+http://tech.slashdot.org/story/13/08/19/2311245/netflix-comes-to-linux-web-browsers-via-pipelight
+
+Netflix is abandoning Silverlight too.
+http://www.computerworld.com/s/article/9238421/Netflix_to_dump_Silverlight_Microsoft_s_stalled_technology 
+
+Complete
+========
+x Mon Jan  7 11:01:50 AKST 2013 - Definitely the Ceton InfiniTV 4 CableCARD tuner.
+http://www.engadget.com/2010/03/30/ceton-infinitv-4-cablecard-tuner-review/
+http://cetoncorp.com/products/infinitv-4-pcie/
+
+x Tue Aug  9 15:07:20 AKDT 2011 - Build a a CableCARD interface that is
+compatible with MythTV?
+x Tue Aug  9 15:07:20 AKDT 2011 - Use of CableCARDs with MythTV?
+x Tue Aug  9 09:32:00 AKDT 2011 - Best TV tuner card for use with MythTV?
+
+
+x Sat Oct 30, 2010 - The utility to use for drive inspection is
+the hardinfo package:
+
+hardinfo - Displays system information
+
+It displays Devices > Storage with the WD Ext HDD 1021 details.
+Very Nice.
+
+Initially dmesg only reports:
+usb 3-2: new high speed USB device using ehci_hcd and address 13
+usb 3-2: configuration #1 chosen from 1 choice
+scsi13 : SCSI emulation for USB Mass Storage devices
+usb-storage: device found at 13
+usb-storage: waiting for device to settle before scanning
+usb 3-2: New USB device found, idVendor=1058, idProduct=1021
+usb 3-2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+usb 3-2: Product: Ext HDD 1021
+usb 3-2: Manufacturer: Western Digital
+usb 3-2: SerialNumber: 5743415A4130353630373431
+
+Waiting a few 10s of seconds dmesg reports:
+scsi 13:0:0:0: Direct-Access     WD       Ext HDD 1021     2002 PQ: 0 ANSI: 4
+sd 13:0:0:0: [sdd] 3907024896 512-byte hardware sectors (2000397 MB)
+sd 13:0:0:0: [sdd] Test WP failed, assume Write Enabled
+sd 13:0:0:0: [sdd] Assuming drive cache: write through
+sd 13:0:0:0: [sdd] 3907024896 512-byte hardware sectors (2000397 MB)
+sd 13:0:0:0: [sdd] Test WP failed, assume Write Enabled
+sd 13:0:0:0: [sdd] Assuming drive cache: write through
+sdd: sdd1 sdd2 sdd3 sdd4
+
+Need to know the right tool to display succinct list of drive and mount 
+points.  In particular want too know all usb and sata drives attached to 
+system.
+
+
+Links
+=====
+HTPC - Home theater PC
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Home_theater_PC
+
+MythTV, Open Source DVR
+http://www.mythtv.org/
