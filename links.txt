@@ -1,0 +1,281 @@
+links.txt
+Created Wed Mar 24 08:18:45 AKDT 2010
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Media related links
+
+
+search: Ceton InfiniTV 4 htpc price
+
+
+Links
+=====
+1080P Full HD 3.5" SATA HDD Network Media Player with 3-USB/ESATA/HDMI/LAN - $109.80
+Looks nice.
+http://www.dealextreme.com/p/1080p-full-hd-3-5-sata-hdd-network-media-player-with-3-usb-esata-hdmi-lan-91022
+
+Anonymous file sharing networks
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Category:Anonymous_file_sharing_networks
+
+Anonymous Peer-to-Peer File-Sharing Systems
+http://www.lix.polytechnique.fr/~tomc/P2P/index.html
+
+ARES P2P - Filesharing made easy
+"You may now easily publish your files through the Ares peer to peer network. As a member of
+the virtual community, you can search and download just about any file shared by other users.
+Latest versions support BitTorrent protocol and Shoutcast radio stations."
+http://aresgalaxy.sourceforge.net/
+
+Ask Slashdot: Best Kit For a Home Media Server?
+Posted by samzenpus on Sunday December 25, @11:06PM
+from the serving-your-collection dept.
+http://hardware.slashdot.org/story/11/12/26/0030241/ask-slashdot-best-kit-for-a-home-media-server
+
+Ask Slashdot: Easiest Way To Consolidate Household Media?
+Posted by timothy on Sunday December 30, @11:24AM
+from the one-way-data-transfer-is-much-simpler dept.
+http://ask.slashdot.org/story/12/12/30/1622253/ask-slashdot-easiest-way-to-consolidate-household-media
+
+Ask Slashdot: How To Make My Own Hardware Multimedia Player?
+Posted by timothy on Saturday April 07, @05:37PM
+from the many-have-tried dept.
+This article has some greate info and details:
+o XBMC
+o DLNA sucks donkey dick.
+o ARM just isn't fast enough to bitbang stuff like h.264 HD encoding in realtime.
+o ARM will struggle to do 1080p60 playback (if it can do it at all).
+o ARM-based depends upon hardware acceleration and custom chips.
+http://ask.slashdot.org/story/12/04/07/2137218/ask-slashdot-how-to-make-my-own-hardware-multimedia-player
+
+AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into
+MPEG-4 files.
+http://atomicparsley.sourceforge.net/
+
+Autorip.sh is a no-questions-asked command-line DVD ripping tool.  The aim is to create a
+high-quality backup of your DVD in a single file, including all subtitles and audio tracks,
+without having to configure anything.
+Uses mplayer and mencoder.
+http://freshmeat.net/projects/autoripsh
+http://github.com/raas/autorip.sh
+
+Boxee TV's Unlimited Cloud-based DVR Holds Users Hostage To Monthly Fees
+Posted by Unknown Lamer on Wednesday October 17, @10:11AM
+from the ownership-is-obsolete dept.
+"With the exception of Tivo, I've yet to see any of these new DVR's I keep hearing about lately
+even mention if they work with cablecards or switched digital video."
+http://hardware.slashdot.org/story/12/10/17/1337212/boxee-tvs-unlimited-cloud-based-dvr-holds-users-hostage-to-monthly-fees
+
+CableCARD
+http://www.mythtv.org/wiki/CableCARD
+
+CableCARD Support Coming to SageTV or MythTV?
+Another interesting take on MythTV and CableCard support.
+http://www.zatznotfunny.com/2010-08/cablecard-support-coming-to-sagetv-or-mythtv/
+
+CouchPotato
+An automatic NZB and torrent downloader, just fill in what you want to see and CouchPotato
+will add it to your "want to watch"-list.  Every day it will search through multiple
+NZBs & Torrents sites, looking for the best possible match.
+Once a correct release is found, it will send it to your favorite download app. 
+https://couchpota.to/
+
+deb-multimedia.org repo
+http://deb-multimedia.org/
+
+deb-multimedia.org faq
+http://deb-multimedia.org/faq
+
+deb-multimedia.org packages
+http://deb-multimedia.org/pool/main/
+
+DIY'ers successfully build their own CableCARD equipped HTPC
+http://www.engadget.com/2009/04/29/diyers-successfully-build-their-own-cablecard-equipped-htpc/
+
+Download YouTube Videos : The Linux Way !
+January 29, 2007 by arun
+http://arun.wordpress.com/2007/01/29/download-youtube-videos-the-linux-way/
+
+Dreambox
+The Dreambox is a series of Linux-powered DVB satellite, terrestrial and cable digital television
+receivers (set-top box), produced by German multimedia vendor Dream Multimedia.
+"Get a Dreambox, install one of the 'special' firmwares and you can watch and record whatever,
+whenever.  Google for more info."
+http://ask.slashdot.org/story/13/03/07/1947228/ask-slashdot-dealing-with-flagged-channels-for-xbmc-pvr
+http://en.wikipedia.org/wiki/Dreambox
+
+dvd::rip is a full featured DVD copy program written in Perl.  It provides an easy-to-use but
+feature-rich GTK+ GUI to control almost all aspects of the ripping and transcoding process.
+It uses the widely known video processing swissknife, transcode, and many other Open Source
+tools.
+http://freecode.com/search?q=dvd+rip&submit=Search
+
+eBook sites.
+http://www.wix.com/imperialxs/efk-ebooks#!vstc1=page-2
+
+FLAC - stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless,
+meaning that audio is compressed in FLAC without any loss in quality.  This is similar to how 
+Zip works, except with FLAC you will get much better compression because it is designed 
+specifically for audio, and you can play back compressed FLAC files in your favorite player 
+(or your car or home stereo, see supported devices) just like you would an MP3 file.
+http://flac.sourceforge.net/
+
+Free Haven
+The Free Haven Project aims to deploy a system for distributed, anonymous, persistent
+data storage which is robust against attempts by powerful adversaries to find and destroy
+any stored data.  This model of decentralized system has been classified as peer-to-peer
+by recent popular media.
+http://www.freehaven.net/
+
+HD 720P Smart Box with LAN / USB / HDMI / AV Out - White + Black
+http://www.dealextreme.com/p/hd-720p-smart-box-with-lan-usb-hdmi-av-out-white-black-126290
+
+HDHomeRun CableCARD[1]
+http://www.silicondust.com/press
+
+HDHomeRun Forum (hosted by 9thtee.com)
+http://www.9thtee.com/sdforum.htm
+
+HDHomeRun Prime
+HDHR3-CC $249.99
+http://www.silicondust.com/products/hdhomerun/prime/
+
+HDHomeRun Prime with CableCARD might work with MythTV after all
+by Ben Drawbaugh posted Jul 21st 2010 7:43PM
+Some very good info on the CardCARD issue.
+http://hd.engadget.com/2010/07/21/hdhomerun-prime-with-cablecard-might-work-with-mythtv-after-all/
+
+How to retrieve video file information from command line under Linux
+http://superuser.com/questions/595177/how-to-retrieve-video-file-information-from-command-line-under-linux
+
+HTPC - Home theater PC
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Home_theater_PC
+
+In search of truly anonymous file-sharing
+http://www.usatoday.com/tech/webguide/music/2004-05-07-anon-share_x.htm
+
+Library Pirate
+http://librarypirate.me/browse.php
+
+Linux / MythTV - HDHomeRun
+http://www.silicondust.com/forum/viewforum.php?f=21&sid=9a9e17deb13d7c711092da70637406c3
+
+Linux/OSX script to pull recordings off tivo...
+http://www.dealdatabase.com/forum/showthread.php?62218-Linux-OSX-script-to-pull-recordings-off-tivo
+
+Logitech Harmony Touch - $249.99 (bit spendy)
+Very cool looking remote.
+Perhaps a Christmas present?
+http://www.logitech.com/en-us/product/harmony-touch?gclid=CIyA4prpiLQCFWrZQgod4FgAUw&wt.mc_id=amr_JUNIPER_FY13Q3_GDN_Banner300x250_US&crid=60#section=features
+
+Medium Budget 4K HTPC Build 2017 for Kodi, Plex and Gaming
+MODIFIED ON JANUARY 21, 2017 BY JAMES TILLSON
+http://www.htpcbeginner.com/medium-budget-4k-htpc-build-2017/?utm_source=htpcBeginner+Subscribers&utm_campaign=19b2943aa2-mailchimp&utm_medium=email&utm_term=0_9820e85ffe-19b2943aa2-104846401
+
+Miro Video Converter
+Convert many formats to MP4, WebM, or Ogg Theora
+Based on FFMPEG and ffmpeg2theora.
+http://mirovideoconverter.com/
+http://github.com/8planes/mirovideoconverter (code)
+
+MythTV
+From Wikipedia, the free encyclopedia
+"Completely automatic commercial detection and optional skipping."
+http://en.wikipedia.org/wiki/MythTV
+
+MythTV 0.25 Released, New HW Acceleration and Audio Standards Support
+Posted by timothy on Tuesday April 10, @12:43PM
+from the now-that's-some-conservative-numbering dept.
+http://linux.slashdot.org/story/12/04/10/1619216/mythtv-025-released-new-hw-acceleration-and-audio-standards-support
+
+MythTV, Open Source DVR
+http://www.mythtv.org/
+
+Official HDHomeRun Forum
+http://www.silicondust.com/forum/
+
+pcHDTV HD-3000 Hi Definition Television Card
+$169.98 - PCI 2.2 compliant card. (Aug 9, 2011)
+http://www.pchdtv.com/hd_3000.html
+
+pcHDTV home
+http://www.pchdtv.com/
+
+Phenom I quad, 65W, AM2+ quad-core cpu, for $55 at Starmicro
+http://www.starmicroinc.net/product/HD9150ODJ4BGH/HD9150ODJ4BGH---AMD-Phenom-X4-9150e-18GHz-533MHz-2MB-OEM-CPU/
+
+Polywell Computers
+Potential source for HTPC hardware.
+http://www.polywell.com/us/index.asp
+
+Recording Digital Cable - Best link of the bunch.
+Option 1: HD Component Recording - Hauppauge HD-PVR
+Option 2: QAM Tuner Card - likely not gci compatible.
+Option 3: FireWire via Set Top Box - yuck.
+Option 4: CableCard Tuner - Looks sweet, if card actually available.
+Option 5: Analog Output Recording
+Option 6: Analog-Digital Simulcasting
+http://www.mythtv.org/wiki/Recording_Digital_Cable#Option_4:_CableCard_Tuner
+
+S11 1080P Full HD 2.5" SATA HDD Multimedia Player with HDMI/SDHC/2-USB Host/AV/Optical/RJ45 
+$98.30 (Wow! This is it)
+http://www.dealextreme.com/p/s11-1080p-full-hd-2-5-sata-hdd-multimedia-player-with-hdmi-sdhc-2-usb-host-av-optical-rj45-64004
+http://www.alibaba.com/product-gs/492831288/S11_1080P_Full_HD_2_5.html
+
+Sick Beard is a PVR for newsgroup users (with limited torrent support).  It watches for new
+episodes of your favorite shows and when they are posted it downloads them, sorts and renames
+them, and optionally generates metadata for them.  It currently supports NZBs.org, NZBMatrix,
+NZBs'R'Us, Newzbin, Womble's Index, NZB.su, TVTorrents and EZRSS and retrieves show information
+from theTVDB.com and TVRage.com.
+http://sickbeard.com/
+
+Silicondust HDHomeRun Prime
+"The HDHomeRun Prime, by Silicondust USA (a wholly owned subsidiary of Silicondust
+Engineering, New Zealand), is an external HDTV tuner for personal computers.  It has
+three independent tuners, interfaces to the computer via ethernet, and supports a
+multi-stream CableCARD. Support for this device has been added as of the 0.24 release."
+http://www.mythtv.org/wiki/Silicondust_HDHomeRun_Prime
+
+Smackdown: Google TV vs Apple TV vs Boxee vs Roku vs...
+Feb 23, 2012
+http://deviceguru.com/google-tv-vs-apple-tv-vs-boxee-vs-roku/
+
+The Best Streaming Media Player
+Posted by samzenpus on Friday February 24, @08:11AM
+from the line-em-up dept.
+Some great roku programming comments here.
+http://apple.slashdot.org/story/12/02/24/048221/the-best-streaming-media-player
+
+The Easiest 4G Solution for IoT        <=== For no internet site
+Extrovert 4G LTE Industrial ML600 PC
+http://www.logicsupply.com/explore/extrovert-4g/?gclid=CLOAwa-i29ECFRBxfgodnh8JJw
+
+The Wayback Machine
+http://archive.org/web/web.php
+
+Top 20 Best Peer to Peer (P2P) File Sharing Programs and Applications
+http://www.blogsdna.com/923/top-20-best-peer-2-peer-p2p-file-sharing-programs-applications-software.htm
+
+Transfer Videos From TIVO To Ubuntu Or Android Using Kmttg
+Some good kmttg build/install notes
+https://help.ubuntu.com/community/TransferVideosFromTIVOToUbuntuOrAndroidUsingKmttg
+
+Verizon FiOS
+The fastest Internet in the U.S. based on speed test*
+http://www22.verizon.com/Residential/Fiosinternet/
+
+Video Appliance For a Large Library On a Network?
+http://ask.slashdot.org/story/10/09/02/2319259/Video-Appliance-For-a-Large-Library-On-a-Network
+
+VortexBox is a free, open source (GPL v3), quick-install ISO that turns your unused computer into
+an easy-to-use music server/jukebox.  Once VortexBox has been loaded on an unused PC, it will
+automatically rip CDs to FLAC and MP3 files, ID3 tag the files , and download the cover art.
+Vortexbox will then serve the files to network media players such as Logitech Squeezebox, Sonos,
+or Linn.  The music files can also be streamed to a Windows or Mac OSX system.
+http://vortexbox.org/content/134-About-VortexBox
+
+Z8 3.5" HDD 1080P Full HD Media Player Network Video Recorder - $126.60
+Looks nice.
+http://www.dealextreme.com/p/z8-3-5-hdd-1080p-full-hd-media-player-network-video-recorder-64007
