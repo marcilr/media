@@ -1,0 +1,84 @@
+glossary.txt
+Created Thu Oct 28 09:25:41 AKDT 2010
+by Raymond E. Marcil
+
+
+Media glossary.
+
+
+CableCARD is a standard for removable encryption keycards created by CableLabs,
+  the industry research and development of the CATV industry. 
+  http://www.mythtv.org/wiki/CableCARD
+
+DVR - A digital video recorder (DVR), sometimes referred to by the merchandising term 
+  personal video recorder (PVR), is a consumer electronics device or application software 
+  that records video in a digital format to a disk drive, USB flash drive, SD memory card
+  or other local or networked mass storage device. 
+  http://en.wikipedia.org/wiki/Digital_video_recorder
+
+FLAC - stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless,
+  meaning that audio is compressed in FLAC without any loss in quality.  This is similar to how
+  Zip works, except with FLAC you will get much better compression because it is designed
+  specifically for audio, and you can play back compressed FLAC files in your favorite player
+  (or your car or home stereo, see supported devices) just like you would an MP3 file.
+  http://flac.sourceforge.net/
+
+H.264 - H.264/MPEG-4 Part 10 or AVC (Advanced Video Coding) is a standard for video compression,
+  and is currently one of the most commonly used formats for the recording, compression, and
+  distribution of high definition video.
+
+  H.264 is perhaps best known as being one of the codec standards for Blu-ray Discs; all Blu-ray
+  Disc players must be able to decode H.264. It is also widely used by streaming internet sources,
+  such as videos from Vimeo, YouTube, and the iTunes Store, web software such as the Adobe Flash
+  Player and Microsoft Silverlight, and also various HDTV broadcasts over terrestrial (ATSC,
+  ISDB-T, DVB-T or DVB-T2), cable (DVB-C) and satellite (DVB-S and DVB-S2).
+  http://en.wikipedia.org/wiki/H.264
+
+HTPC - "A Home Theater PC (HTPC) or Media Center is a convergence device that combines some 
+  or all the capabilities of a personal computer with a software application that supports 
+  video, photo, and music playback, and sometimes digital video recorder functionality. In 
+  recent years, other types of consumer electronics, including gaming systems and dedicated 
+  media devices have crossed over to manage video and music content. The term "media center" 
+  also refers to specialized application software designed to run on standard personal 
+  computer."
+  http://en.wikipedia.org/wiki/Home_theater_PC
+
+MVC - Multimedia Video Controller
+
+MKV - "...is a flexible, open standard video file format that has quickly become the
+  preferred file extension for high definition video on the Internet. It natively supports
+  features like alternate audio tracks, multilingual subtitles and chapter points, as well
+  as rich metadata authoring including cover art, ratings, descriptions and more. These features
+  made it the perfect choice for DivX Plus HD video, allowing us to create an ideal viewing
+  experience."
+  http://www.divx.com/en/software/divx-plus/codec-pack/mkv
+
+  "An MKV file is a Matroska file. Matroska is an open source container format. It is an
+  alternative to the popular AVI and MP4 formats and it also surpasses them in many areas."
+  http://www.afterdawn.com/guides/archive/how_to_play_mkv.cfm
+
+MUTE - Simple, Anonymous File Sharing
+  MUTE File Sharing is a peer-to-peer network that provides easy search-and-download functionality
+  while also protecting your privacy.
+  http://mute-net.sourceforge.net/
+
+STD - A set-top box (STB) or set-top unit (STU) is an information appliance device that 
+  generally contains a tuner and connects to a television set and an external source of 
+  signal, turning the signal into content which is then displayed on the television screen 
+  or other display device. 
+  http://en.wikipedia.org/wiki/Set-top_box
+
+tor - The second-generation onion router
+  tor is a connection-oriented anonymizing communication service.  Users choose a
+  source-routed path through a set of nodes, and negotiate a "virtual circuit" through the 
+  network, in  which each node  knows its predecessor and successor, but no others. 
+  Traffic flowing down the circuit is unwrapped by a symmetric key at each node,  which  
+  reveals the down stream node.
+  https://www.torproject.org/docs/tor-manual.html.en
+
+VortexBox is a free, open source (GPL v3), quick-install ISO that turns your unused computer into 
+  an easy-to-use music server/jukebox.  Once VortexBox has been loaded on an unused PC, it will 
+  automatically rip CDs to FLAC and MP3 files, ID3 tag the files , and download the cover art. 
+  Vortexbox will then serve the files to network media players such as Logitech Squeezebox, Sonos, 
+  or Linn.  The music files can also be streamed to a Windows or Mac OSX system.
+  http://vortexbox.org/content/134-About-VortexBox
