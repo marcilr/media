@@ -1,0 +1,33 @@
+#
+# svn_ext_val.txt
+# Created Tue Dec 13 11:06:58 AKST 2011
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under media/
+#
+# audio/         Sound & music.
+#
+# component/     Component Video
+#                http://en.wikipedia.org/wiki/Component_video
+#
+# docs/          Documentation
+# editor/        Video editor
+# 
+# movies/        Movies details and information
+#
+# player/        Media player
+#                http://en.wikipedia.org/wiki/Media_player
+#
+# transcoding/   The process of the conversion of digital data
+#                (typically video and audio files) from one format to another.
+#
+../../media/audio/audio               ./audio
+../../media/component/component       ./component
+../../media/docs/docs                 ./docs
+../../media/editor/editor             ./editor
+../../media/movies/movies             ./movies
+../../media/player/player             ./player
+../../media/transcoding/transcoding   ./transcoding
