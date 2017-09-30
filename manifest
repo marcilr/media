@@ -1,0 +1,56 @@
+# manifest
+# Created Sun Jul 24 16:48:54 AKDT 2016
+# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Manifest for resync application
+#
+# To my knowledge GitHub does not support hierarchical repositories outside
+# of perhaps git submodules.  However, submodules are not so good so I've
+# implemented hierarchical repositories using repo names and this manifest.
+#
+# The dashes in the repo names represent directory separation.  There are
+# some repos like svn-to-git/ that have acutally dashes in the repo name.
+# Have not escaped these dashes in any way.   Might do this at some point.
+#
+
+
+# =====================================================================
+#
+# Media
+#
+# =====================================================================
+
+#
+# GoPro
+#
+ssh://htpc/data/git/media/gopro                     gopro
+
+#
+# Media player
+# http://en.wikipedia.org/wiki/Media_player
+#
+ssh://htpc/data/git/media/player/player   player
+
+#
+# MusicBrainz
+#
+ssh://htpc/data/git/media/musicbrainz  musicbrainz
+
+#
+# MythTV
+#
+ssh://htpc/data/git/media/mythtv   mythtv
+
+#
+# Plex Media Server
+# Stream your entire collection of movies, TV shows, music, and photos from home.
+# Anywhere you go, on the devices you love.
+# https://www.plex.tv/
+#
+ssh://htpc/data/git/media/plexmediaserver   plexmediaserver
+
+
+#
+# Transcoding
+#
+ssh://htpc/data/git/media/transcoding/transcoding   transcoding
