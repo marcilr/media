@@ -26,8 +26,19 @@ manifest
 media.txt
   Media software, hardware, and techniques
 
-svn_ext_val.txt
-  List of repo hierarchical directories to checkout under media/
+minux-neo-u1.txt
+  Minix Neo U1
+
+  While googling a bluetooth remote I hit found references to the Minix A2 remote which then lead
+  to the Minix Neo U1 Android box that comes bundled wit the Minix A2 remote.   Reads like it may
+  be the best Android package.  Recording here.
+
+  For Android applications runs:
+  o Kodi
+  o Netflix
+  o Google photos
+  o music
+  o Spotify
 
 TODO
   TODO items for media
