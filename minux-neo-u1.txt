@@ -1,0 +1,189 @@
+minux-neo-u1.txt
+Created Sat Sep 30 22:34:36 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Minix Neo U1
+
+While googling a bluetooth remote I hit found references to the Minix A2 remote which then lead 
+to the Minix Neo U1 Android box that comes bundled wit the Minix A2 remote.   Reads like it may 
+be the best Android package.  Recording here.
+
+For Android applications runs:
+o Kodi
+o Netflix
+o Google photos
+o music
+o Spotify
+
+
+MINIX NEO U1 + MINIX NEO A2 Lite, 64-bit Quad-Core Media Hub for Android
+[2GB/16GB/4K/XBMC/ and Six-Axis Gyroscope Remote. Sold Directly by MINIX Technology Limited.
+
+item model number:  MINIX-NEO-U1-NEO-A2-Lite
+asin:               B01L1E3K5A
+manufacturer:       MINIX Technology Limited
+first available
+  at amazon.com:    December 4, 2015
+warranty:           1-Year manufacturer's warranty
+
+cpu:                AMLogic S905 processor
+                    Quad-Core Cortex-A5 at 1.5GHz
+gpu:                Penta-Core ARMÂ® Maliâi-450
+ram:                2GB DDR3
+storage:            16GB eMMC 5.0, i.e. fast, flash storage
+os:                 Android Lollipop 5.1.1
+hdmi:               HDMI 2.0/HDCP 2.2 output, capable of supporting 10-bit 4K Ultra HD 4k streaming
+lan:                Gigabit Ethernet
+wifi:               802.11ac 2 x 2 MIMO Dual-Band Wi-Fi (2.4GHz/5.0GHz)
+                    i.e. WiFi (802.11ac Router)
+bluetooth:          4.1
+connectivity:       ethernet, wired, usb, hdmi, wireless, infrared, wi-fi_ready
+ir:                 IR sensor
+antenna:            Bluetooth 4.1 & dual-band 802.11ac 2 x 2 MIMO Wi-Fi capability
+video formats:      DAT/MPEG/MPE/MPG/TS/TP/VOBI/AVI/MP4/MOV/3GP/FLV/MKV/M2TS/MTS/WMV/ASF
+internet apps:      skype, xbmc
+power:              DC 5V/3A
+                    power button
+dimensions:         5 x 5 x 0.8 inches
+                    21x127x127mm 
+weight:             15.8 ounces
+--amazon.com, avforums.com
+
+Ports:
+o HDMI 2.0
+o Toslink (S/PDiF) digital audio out
+o 3.5mm audio
+o headphone jack
+o microphone jack
+o gigabit lan
+o 3x USB 2.0
+o 1x micro USB OTG, handy to flash firmware
+o 1x TF (mini SD) card slot to expand storage
+
+
+Features
+========
+o Amazing Ultra HD Streaming Media Hub - Ultimate Home Entertainment Media Hub.
+o Ultra-Connectivity - 802.11ac 2 x 2 MIMO Dual-Band Wi-Fi (2.4GHz/5.0GHz) & Gigabit Ethernet.
+o Frequent automatic updates available via the F.O.T.A Update System.
+  Simple setup and easy-to-use interface
+o Stunning Cinematic Experience - Support up to 10-bit Colour Format, 4K @ 60fps.
+  Ultra-Responsive - Android Lollipop 5.1.1 OS.
+o Media-Friendly Gyroscopic Mouse with Dedicated Multi-Media Playback Controls.
+--amazon
+
+
+Description
+===========
+MINIX NEO U1 is the ultimate home entertainment media hub, designed to bring a world of online
+entertainment to your living room; including web browsing, stunning Ultra High-Definition video
+playback and real-time streaming, access to popular media player apps such as KODI. 
+
+NEO U1 showcases the latest wireless advancements with the inclusion of 802.11ac 2 x 2 MIMO
+Dual-Band Wi-Fi (2.4GHz/5.0GHz), combining both an internal and external antenna to accomplish
+lightning-fast, flawless streaming. 
+NEO U1 also features Gigabit Ethernet for those who prefer a wired connection.
+
+NEO U1 is built for the video purists, delivering an incredibly rich and intense cinematic experience. 
+It is our first Media Hub for Android to support video output up to 4K @ 60Hz, pioneering cutting-edge
+technologies to achieve ultra-sharp 4K imagery and enhanced media playback quality. 
+
+NEO U1 supports up to 10-bit colour format, significantly increasing the dynamic range of colors
+displayed, adding new depths and vibrant picture quality not found on previous Media Hubs for Android. 
+NEO U1 offers improved application performance and responsiveness thanks to running Android Lollipop
+5.1.1 OS. 
+
+Supported Video Format:
+  DAT/MPEG/MPE/MPG/TS/TP/VOBI/AVI/MP4/MOV/3GP/FLV/MKV/M2TS/MTS/WMV/ASF
+
+MINIX NEO A2 Lite is the perfect gyro-mouse to pair with NEO U1, this all-in-one gyro-mouse is capable
+of fulfilling a vast array of functions, with its ergonomically designed spacious keyboard, six-axis
+gyroscope & accelerometer support, multi-media playback buttons and built-in IR-transmitter.
+--amazon
+
+
+Package Includes:
+================
+1x Minix Neo U1 Android TV Box
+1x IR-Remote
+1x 5V(3A) US Power Adapter
+1x HDMI Cable
+1x User Manual
+1x A2 Lite Remote Control
+--amazon
+
+
+Applications
+============
+A variety of apps come pre-installed on the MINIX NEO U1 such as:
+  Airpin Pro
+  Airdroid
+  Netflix
+  Kodi 15.2
+
+Airpin Pro acts as a media center of sorts, offering DLNA and Airplay functionality.
+I was pretty impressed when I tried Airplay from my iPhone 6 and I was able to stream
+music, movies and even mirror my display without issue.
+
+OTA updates are supported for easy firmware updates via the MINIX OTA Updater app.
+The app will download and install the latest update, making the whole process painless.
+MINIX have already released a number of firmware updates (the latest at the time of
+writing was released on the 30th of January).
+
+The Amlogic S905 handles Android 5.1 well.  During my testing, navigating the UI was
+smooth without any hitches.  The box isn't rooted but methods are available.
+
+The MINIX NEO U1 comes with stock Kodi 15.2 pre-installed. However, MINIX recommends
+that XBMC MINIX Edition which can be downloaded from their site.  It looks like stock
+Kodi 15.2 with a custom splash screen but I'm guessing most of the changes are under
+the hood.
+
+--hometheatrelife.com/minix-neo-u1-review/
+
+Review
+======
+*****
+Excellent Android TV box and remote
+Byatari400on January 6, 2017
+
+Verified Purchase
+Fantastic Android TV box.
+Very stable and is extremely optimized for video streaming.
+Build quality is excellent and the box runs very cool.
+A customized version of KODI is preloaded and the MINIX interface is simple and clean.
+The A2 remote is an absolute joy to use.  It's a remote, a keyboard and a mouse all in one and so is
+well worth the little extra over the NEO U1 alone.
+
+*****
+AWESOME TV MEDIA BOX!!! RUNS GREAT WITH KODI!!!
+Bym8rketsm1thon January 23, 2017
+Verified Purchase
+Have had this a couple of weeks. I also have the most expensive android tv box and I like this one better.
+Here is why...It runs a straight android system so you can add apps from the play store.  I use this as a
+media player.  It handles 4 k streaming which is the most demanding.  I particularly like to use google
+photos and music and Spotify.  The box software is excellent.  The manufacturer fully supports the box
+and is available to help.  Updates are easy and the box is real easy to use and set up was a breeze.
+It's worth the money.  Kodi works flawlessly on the box.  I recommend a good build installed on a separate
+app and leave the native Kodi app alone for file snstalled by the manufacturer.  I highly recommend the
+air remote.
+
+
+
+Links
+=====
+MINIX A2 remote
+It has a full QWERTY keyboard on the back, which allows the use of the Search function in KODI.
+http://kodi.wiki/view/Remote_controls/RF/MINIX_A2
+
+MINIX NEO U1 + MINIX NEO A2 Lite, 64-bit Quad-Core Media Hub for Android
+[2GB/16GB/4K/XBMC/ and Six-Axis Gyroscope Remote. Sold Directly by MINIX Technology Limited.
+price: $122.39 (amazon prime - September 30, 2017)
+https://www.amazon.com/MINIX-Quad-Core-Six-Axis-Gyroscope-Technology/dp/B01L1E3K5A/ref=sr_1_1_sspa?ie=UTF8&qid=1506829949&sr=8-1-spons&keywords=minix+a2+remote&psc=1
+
+Minix Neo U1 Android Box Review
+https://www.avforums.com/review/minix-neo-u1-android-media-box-review.12167
+
+MINIX NEO U1 Review: The Ultimate Amlogic S905 Android TV Box?
+By Michael -February 4, 2016
+http://hometheatrelife.com/minix-neo-u1-review/
