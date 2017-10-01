@@ -26,6 +26,11 @@
 ssh://htpc/data/git/media/gopro                     gopro
 
 #
+# Kindle
+#
+ssh://git@github.com/marcilr/kindle                 kindle
+
+#
 # Media player
 # http://en.wikipedia.org/wiki/Media_player
 #
