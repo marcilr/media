@@ -187,3 +187,13 @@ https://www.avforums.com/review/minix-neo-u1-android-media-box-review.12167
 MINIX NEO U1 Review: The Ultimate Amlogic S905 Android TV Box?
 By Michael -February 4, 2016
 http://hometheatrelife.com/minix-neo-u1-review/
+
+MINIX NEO U1 Technical Specifications
+http://hometheatrelife.com/minix-neo-u1-review/
+
+RF remote controls (by MINIX)
+http://kodi.wiki/view/Remote_controls/RF
+
+RPi USB Bluetooth adapters
+https://elinux.org/RPi_USB_Bluetooth_adapters
+
