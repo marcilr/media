@@ -62,3 +62,9 @@ ssh://git@github.com/marcilr/raspberry-pi   raspberry-pi
 # Transcoding
 #
 ssh://htpc/data/git/media/transcoding/transcoding   transcoding
+
+#
+# Zoom Video Conferencing‎
+# https://www.zoom.us/
+#
+ssh://htpc/data/git/media/zoom   zoom 
