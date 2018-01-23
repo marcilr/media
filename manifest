@@ -59,7 +59,7 @@ ssh://htpc/data/git/media/plexmediaserver   plexmediaserver
 ssh://git@github.com/marcilr/raspberry-pi   raspberry-pi
 
 # TiVo
-ssh://git@github.com/marcilr/tivo   tivo
+ssh://htpc/data/git/media/tivo   tivo
 
 #
 # Transcoding
