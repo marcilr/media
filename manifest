@@ -58,7 +58,16 @@ ssh://htpc/data/git/media/plexmediaserver   plexmediaserver
 # Raspberry Pi 3
 ssh://git@github.com/marcilr/raspberry-pi   raspberry-pi
 
+# TiVo
+ssh://htpc/data/git/media/tivo   tivo
+
 #
 # Transcoding
 #
 ssh://htpc/data/git/media/transcoding/transcoding   transcoding
+
+#
+# Zoom Video Conferencing‎
+# https://www.zoom.us/
+#
+ssh://htpc/data/git/media/zoom   zoom 
