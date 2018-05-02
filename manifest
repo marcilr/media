@@ -19,55 +19,14 @@
 # Media
 #
 # =====================================================================
-
-#
-# GoPro
-#
 ssh://htpc/data/git/media/gopro                     gopro
-
-#
-# Kindle
-#
 ssh://git@github.com/marcilr/kindle                 kindle
-
-#
-# Media player
-# http://en.wikipedia.org/wiki/Media_player
-#
-ssh://htpc/data/git/media/player/player   player
-
-#
-# MusicBrainz
-#
-ssh://htpc/data/git/media/musicbrainz  musicbrainz
-
-#
-# MythTV
-#
-ssh://htpc/data/git/media/mythtv   mythtv
-
-#
-# Plex Media Server
-# Stream your entire collection of movies, TV shows, music, and photos from home.
-# Anywhere you go, on the devices you love.
-# https://www.plex.tv/
-#
-ssh://htpc/data/git/media/plexmediaserver   plexmediaserver
-
-
-# Raspberry Pi 3
-ssh://git@github.com/marcilr/raspberry-pi   raspberry-pi
-
-# TiVo
-ssh://htpc/data/git/media/tivo   tivo
-
-#
-# Transcoding
-#
+ssh://htpc/data/git/media/player/player             player
+ssh://git@github.com/marcilr/magazines              magazines
+ssh://htpc/data/git/media/musicbrainz               musicbrainz
+ssh://htpc/data/git/media/mythtv                    mythtv
+ssh://htpc/data/git/media/plexmediaserver           plexmediaserver
+ssh://git@github.com/marcilr/raspberry-pi           raspberry-pi
+ssh://htpc/data/git/media/tivo                      tivo
 ssh://htpc/data/git/media/transcoding/transcoding   transcoding
-
-#
-# Zoom Video Conferencing‎
-# https://www.zoom.us/
-#
-ssh://htpc/data/git/media/zoom   zoom 
+ssh://htpc/data/git/media/zoom                      zoom
