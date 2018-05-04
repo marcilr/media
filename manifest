@@ -22,7 +22,6 @@
 ssh://htpc/data/git/media/gopro                     gopro
 ssh://git@github.com/marcilr/kindle                 kindle
 ssh://htpc/data/git/media/player/player             player
-ssh://git@github.com/marcilr/magazines              magazines
 ssh://htpc/data/git/media/musicbrainz               musicbrainz
 ssh://htpc/data/git/media/mythtv                    mythtv
 ssh://htpc/data/git/media/plexmediaserver           plexmediaserver
