@@ -20,6 +20,7 @@
 #
 # =====================================================================
 ssh://htpc/data/git/media/gopro                     gopro
+ssh://git@github.com/marcilr/htpc-new               htpc-new
 ssh://git@github.com/marcilr/kindle                 kindle
 ssh://htpc/data/git/media/player/player             player
 ssh://htpc/data/git/media/musicbrainz               musicbrainz
