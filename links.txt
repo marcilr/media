@@ -8,6 +8,28 @@ Media related links
 
 search: Ceton InfiniTV 4 htpc price
 
+F1C Evo Chassis
+197 × 197 × 77mm (W x D x H)
+7.76" 
+Very nice little chassis
+http://www.streacom.com/products/f1c-evo-chassis/
+
+Streacom FC8 Alpha Fanless Chassis
+mobo:      mini-ITX
+drives:    3x 2.5"
+optical:   1x ODD
+expansion: 1x Low Profile Expansion Card 
+240 x 250 x 100mm (W x D x H, 109mm including feet)
+9.45" x 9.84" x 3.94" (W x D x H) <=== Pretty good size 
+http://www.streacom.com/products/fc8-alpha-fanless-chassis/
+
+Streacom FC10 Alpha fanless chassis
+2x Full Height Slots
+435 x 319 x 100mm (W x D x H, 109mm including feet)
+17" x 12.56"  x 3.94" (W x D x H) <=== Pretty darn big 
+http://www.streacom.com/products/fc10-alpha-fanless-chassis/
+
+
 
 Links
 =====
