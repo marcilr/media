@@ -26,6 +26,7 @@ slots: 2 x Full Height Slots (300mm Upper, 190mm Lower Slot, Flexible Riser Requ
 2x USB3.0
 440 x 319 x 100mm (W x D x H)
 17.32" x 12.56" x 3.94" (W x D x H)
+NOTE: I think the FC10 ALPHA is the smallest with 2x PCIe slots
 https://www.quietpcusa.com/Streacom-FC10-ALPHA-HTPC-Chassis.aspx
 
 
