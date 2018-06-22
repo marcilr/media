@@ -1,0 +1,34 @@
+streacom.txt
+Created Thu Jun 21 17:04:13 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Streacom
+
+
+As best I can tell HDPLEX does not currently sell 
+a fanless box with ODD and PCIe slot - ouch.
+
+Streacom appears to make a few
+
+Ideally you want 2x PCIe slots:
+  1x NVMe 4 slot card
+  1x Ceton InfiniTV 4 PCIe
+
+
+Links
+=====
+Streacom FC10 ALPHA HTPC Chassis
+Mini-ITX, Micro-ATX and Full Size ATX
+drives: Minimum 2 x 3.5" + 3 x 2.5" Maximum 5 x 3.5" + 4 x 2.5"*
+slots: 2 x Full Height Slots (300mm Upper, 190mm Lower Slot, Flexible Riser Required)
+2x PCIe
+2x USB3.0
+440 x 319 x 100mm (W x D x H)
+17.32" x 12.56" x 3.94" (W x D x H)
+https://www.quietpcusa.com/Streacom-FC10-ALPHA-HTPC-Chassis.aspx
+
+
+Streacom HTPC Cases
+QuietPC USA
+https://www.quietpcusa.com/Streacom-HTPC-Cases.aspx
