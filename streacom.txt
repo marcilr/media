@@ -16,6 +16,13 @@ Ideally you want 2x PCIe slots:
   1x Ceton InfiniTV 4 PCIe
 
 
+Fri May 10 21:53:14 AKDT 2019
+=============================
+Found a 2-foot square box in the foryear today
+that must be the two Streacom FC10 Alpha Fanless Chassis 
+I purchased.  Need to open and inspect.
+
+
 Links
 =====
 Streacom FC10 ALPHA HTPC Chassis
