@@ -30,5 +30,5 @@ ssh://htpc/data/git/media/plexmediaserver           plexmediaserver
 ssh://git@github.com/marcilr/raspberry-pi           raspberry-pi
 ssh://htpc/data/git/subscriptions/subscriptions     subscriptions
 ssh://htpc/data/git/media/tivo                      tivo
-ssh://htpc/data/git/media/transcoding/transcoding   transcoding
+ssh://git@github.com/marcilr/transcoding            transcoding
 ssh://htpc/data/git/media/zoom                      zoom
