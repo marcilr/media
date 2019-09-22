@@ -19,16 +19,17 @@
 # Media
 #
 # =====================================================================
-ssh://htpc/data/git/media/gopro                     gopro
+#ssh://htpc/data/git/media/gopro                     gopro
 ssh://git@github.com/marcilr/hdplex                 hdplex
+ssh://git@github.com/marcilr/growisofs              growisofs
 ssh://git@github.com/marcilr/htpc                   htpc
 ssh://git@github.com/marcilr/kindle                 kindle
-ssh://htpc/data/git/media/player/player             player
-ssh://htpc/data/git/media/musicbrainz               musicbrainz
+#ssh://htpc/data/git/media/player/player             player
+#ssh://htpc/data/git/media/musicbrainz               musicbrainz
 ssh://htpc/data/git/media/mythtv                    mythtv
 ssh://git@github.com/marcilr/plexmediaserver        plexmediaserver
 ssh://git@github.com/marcilr/raspberry-pi           raspberry-pi
-ssh://htpc/data/git/subscriptions/subscriptions     subscriptions
-ssh://htpc/data/git/media/tivo                      tivo
+#ssh://htpc/data/git/subscriptions/subscriptions     subscriptions
+#ssh://htpc/data/git/media/tivo                      tivo
 ssh://git@github.com/marcilr/transcoding            transcoding
-ssh://htpc/data/git/media/zoom                      zoom
+#ssh://htpc/data/git/media/zoom                      zoom
