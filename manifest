@@ -1,6 +1,6 @@
 # manifest
 # Created Sun Jul 24 16:48:54 AKDT 2016
-# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+# Copyright (C) 2016-2019 by Raymond E. Marcil <marcilr@gmail.com>
 #
 # Manifest for resync application
 #
@@ -26,7 +26,7 @@ ssh://git@github.com/marcilr/htpc                   htpc
 ssh://git@github.com/marcilr/kindle                 kindle
 #ssh://htpc/data/git/media/player/player             player
 #ssh://htpc/data/git/media/musicbrainz               musicbrainz
-ssh://htpc/data/git/media/mythtv                    mythtv
+#ssh://htpc/data/git/media/mythtv                    mythtv
 ssh://git@github.com/marcilr/plexmediaserver        plexmediaserver
 ssh://git@github.com/marcilr/raspberry-pi           raspberry-pi
 #ssh://htpc/data/git/subscriptions/subscriptions     subscriptions
