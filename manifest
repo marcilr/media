@@ -29,6 +29,7 @@ ssh://git@github.com/marcilr/kindle                 kindle
 #ssh://htpc/data/git/media/mythtv                    mythtv
 ssh://git@github.com/marcilr/plexmediaserver        plexmediaserver
 ssh://git@github.com/marcilr/raspberry-pi           raspberry-pi
+ssh://git@github.com/marcilr/sound                  sound
 #ssh://htpc/data/git/subscriptions/subscriptions     subscriptions
 #ssh://htpc/data/git/media/tivo                      tivo
 ssh://git@github.com/marcilr/transcoding            transcoding
