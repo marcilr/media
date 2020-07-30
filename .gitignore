@@ -1,0 +1,14 @@
+#.gitignore
+# Created Thu 30 Jul 2020 02:50:03 PM AKDT
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+growisofs/
+hdplex/
+htpc/
+kindle/
+plexmediaserver/
+raspberry-pi/
+transcoding/
